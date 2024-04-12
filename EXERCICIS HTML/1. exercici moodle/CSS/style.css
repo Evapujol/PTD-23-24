@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2{
+    color:orangered;
+}
+
+
+
+.vinculo {
+    color:orangered;
+    background-color: transparent;
+    text-decoration:none;
+    font-size: 10px;
+}
+
+p, li{
+    font-size: 14px;
+}
+
+header, main{
+    border: 1px solid rgb(186, 180, 180); 
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+  

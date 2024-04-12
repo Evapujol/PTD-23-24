@@ -1,0 +1,114 @@
+.logo {
+    display: block;
+    width: 250px;
+    height: 200px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+main {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2{
+    color:red;
+}
+
+
+
+th{
+    color: red;
+}
+
+
+.tabla1 {
+    background-color: rgb(217, 217, 217);
+    font-weight: bolder;
+    width: 70%;
+    padding-block: 8px;
+}
+
+.tabla1 td {
+    text-align: left;
+    width: 200px;
+    padding-block: 8px;
+}
+
+.tabla2 {
+    background-color: rgb(217, 217, 217);
+    font-weight: bolder;
+    width: 70%;
+    padding-block: 8px;
+}
+
+.tabla2 td {
+    text-align: left;
+    width: 200px;
+    padding-block: 8px;
+}
+
+p {
+    font-weight: bolder;
+}
+
+.tabla3 {
+    font-weight: bolder;
+    width:  90%;
+}
+
+.tabla3 td {
+    text-align: left;
+    width: 450px;
+}
+
+.tabla3 th {
+    color: red;
+    text-align: left;
+}
+
+.tabla3 .col2{
+    width: 60px;
+}
+
+
+.tabla3 .col3{
+    width: 200px;
+}
+
+.tabla3 .dato_col3 {
+    text-align: left;
+}
+
+.tabla3 .col4{
+    width: 80px;
+}
+
+.tabla3 .dato_col4 {
+    text-align: center;
+}
+
+.tabla4 {
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+    width: 300px;
+    margin-bottom: 100px;
+    text-align: right;
+}
+
+.tabla4 th{
+    color: red;
+    padding-bottom: 20px;
+}
+
+.tabla4 .col1 {
+    width: 200px;
+}
+
+.tabla4 .col2 {
+    width: 120px;
+
+}

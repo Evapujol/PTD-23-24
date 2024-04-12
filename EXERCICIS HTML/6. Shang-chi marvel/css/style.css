@@ -1,0 +1,75 @@
+header {
+    display: block;
+    width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.logo {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+main {
+    background-color: black;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+.portada {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue; 
+    display: block;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.parrafo {
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: aliceblue;
+    text-align: center;
+}
+
+h3 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.boton {
+    display: block;
+    width: 200px;
+    background-color: red;
+    color: white;
+    border-style: solid;
+    border-color: yellow;
+    margin-bottom: 20px;
+    margin-left:auto;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.separation {
+    width: 270px;
+}
+
